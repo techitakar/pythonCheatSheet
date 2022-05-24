@@ -9,6 +9,7 @@ list1[3]=55
 set1={34,2312,45,64,63,234}
 print("set: ",set1)
 
+#List, Tuple and Set
 list=[11,22,33] #stores values with index
 tuple=(11,22,33) #like list, but values cant be changed
 set={11,22,33} #stores values without index and doesnt support duplicate values
