@@ -8,7 +8,7 @@ print(reqs.content)#returns in raw bytecode
 print(reqs.text)
 print(reqs.cookies)
 print(reqs.encoding)
-print(reqs.headers)
+print(reqs.headers) #important one
 print(reqs.headers['Date'])
 print(reqs.request)
 print(reqs.url)
